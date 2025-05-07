@@ -16,6 +16,15 @@ Lightweight programs that each expose specific capabilities through the standard
 
 ## Installation
 
+### Installing via Smithery
+
+To install Weather and Finance Data Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@akramsheriff5/MCP-Server):
+
+```bash
+npx -y @smithery/cli install @akramsheriff5/MCP-Server --client claude
+```
+
+### Manual Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/mcp-weather-server.git
